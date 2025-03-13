@@ -46,11 +46,6 @@ This project focuses on **building a centralized data warehouse** using **Snowfl
 ✅ **40% increase in decision-making efficiency** with interactive Power BI dashboards.  
 
 
-## 🖥️ SnowSQL Data Staging  
-Below is a screenshot showing the **SnowSQL stage upload process**, where we uploaded CSV files to Snowflake:  
-
-![SnowSQL Stage Upload](Images/IMG.png)  
-
 
 
 
