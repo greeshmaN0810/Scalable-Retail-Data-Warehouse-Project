@@ -51,9 +51,6 @@ Below is a screenshot showing the **SnowSQL stage upload process**, where we upl
 
 ![SnowSQL Stage Upload](Images/IMG.png)  
 
-## 📊 Power BI Report  
-The final **interactive Power BI report** provides key insights into sales trends, store performance, and customer behavior:  
 
-![Power BI Report](Images/Report.png)  
 
 
